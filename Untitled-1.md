@@ -15,4 +15,40 @@ Riscado: ~~palavra01~~
 Citação: 
 > Essa é uma citação
 
-# Linhas Horizonatais
+# Linhas Horizontais
+### 01:
+***
+___ 
+### 02:
+* * * 
+_ _ _ 
+### 03:
+****************
+________________
+
+# Listas Não-Ordenadas
+* Item
++ Item
+- Item 
+    * Subitem
+        * Subitem
+            * Subitem
+
+# Listas Ordenadas
+1. Item
+2. Item        
+***
+1. Item 
+1. Item
+
+# Links
+### 01:
+[Google](https://google.com)
+
+### 02:
+[YouTube](https://youtube.com "Clique para acessar o YouTube")
+
+### 03:
+[var]: https://instagram.com
+[Instagram][var]
+
