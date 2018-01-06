@@ -52,3 +52,45 @@ ________________
 [var]: https://instagram.com
 [Instagram][var]
 
+# Imagens
+## Sem Link
+![Icone WhatsApp](https://image.freepik.com/free-icon/whatsapp-logo_318-49685.jpg) 
+***
+
+![Outra Imagem][imagem]
+
+[imagem]:https://upload.wikimedia.org/wikipedia/commons/7/7e/Cute-Ball-Favorites-icon.png
+
+## Com Link
+[![Ache agora](https://d30y9cdsu7xlg0.cloudfront.net/png/14236-200.png)](https://maps.google.com)
+***
+[var_01]: https://d30y9cdsu7xlg0.cloudfront.net/png/14236-200.png
+[var_02]: https://maps.google.com
+
+[![Olha o Mapa!][var_01]][var_02]
+
+# Tabelas
+| Nome | Idade | País |
+|:-----|:-----:|-----:|
+| Raphael | 20 | Brasil |
+
+# Código 
+## Linha Simples
+`var == var_02`
+## Bloco
+```
+int num;
+num = 15;
+printf("%d", num);
+```
+***
+    int num;
+    num = 15;
+    printf("%d", num);
+
+## Sintaze Highlighting 
+```C
+int num;
+num = 15;
+printf("%d", num);
+```
